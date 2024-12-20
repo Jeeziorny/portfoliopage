@@ -1,1 +1,1 @@
-Personal page based on https://themeforest.net/item/tokyo-personal-portfolio-template/31647361
+Personal page based on [tokyo theme](https://themeforest.net/item/tokyo-personal-portfolio-template/31647361). You can preview it on [jezziorny.com](http://jezziorny.com)
